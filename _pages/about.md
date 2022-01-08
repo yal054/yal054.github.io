@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, there. This is Yang, coming from Beijing, China. I feel very fortunate that I am still on the career path to realizing my childhood dream, which is to become a scientist. I can vividly remember the summer days I spent, 25 years ago, collecting all kinds of insects. This made me always curious about nature since I was a child.
+Hi, there! :wave:
+
+This is Yang, coming from Beijing, China. I feel very fortunate that I am still on the career path to realizing my childhood dream, which is to become a scientist. I can vividly remember the summer days I spent, 25 years ago, collecting all kinds of insects. This made me always curious about nature since I was a child.
 
 I am currently a postdoctoral fellow in [Dr. Bing Ren's laboratory](http://renlab.sdsc.edu/), at UC San Diego. I am interested in epigenomics, chromatin architecture and single-cell technologies. In July 2013, I got my Bachelor’s Degree in Biological Sciences and Law at Sichuan Univeristy. In July 2018, I got my PhD Degree from School of Life Science, Tsinghua Univeristy under the supervision of Prof. Zhi John Lu.  
 
