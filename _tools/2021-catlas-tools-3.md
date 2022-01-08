@@ -7,6 +7,7 @@ venue: "Exploring single-cell epigenetic datasets in human and mouse"
 date: 2021-10-06
 ---
 
+<img src="/images/catlas.jpg" width="200" />
 You can explore cell clusters and annotations identified from single-cell ATAC-seq, as well as genomic tracks.
 We hope you find this data resource useful. Please write us with experiences and suggestions. We would love stories about how people are using it in their work.
 
