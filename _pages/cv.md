@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology and Laws, Sichuan University, 2013
+* Ph.D in Bioinformatics, School of Life Sciences, Tsinghua University, 2018
 
-Work experience
+Employment
 ======
+* Sep. 2018 - : Postdoctoral fellow
+Postdoctoral fellow in Dr. Bing Ren’s lab
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of California, San Diego
+  * Ludwig Institute for Cancer Research, San Diego
+  * Supervisor: Dr. Bing Ren
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2011 – Jul: Research Assistant
+  * Chengdu Institute of Biology, Chinese Academy of Sciences
+  * Supervisor: Dr. Jia-Tang Li
+  * I studied how genomic sequences drive the evolution of rhacophorid frogs and faunal exchange between India and Eurasia during the Oligocene
   
-Skills
+Selected Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct 2017: China National Scholarship
+* Oct 2016: Tang Prize of Outstanding Student Scholarship; Tsinghua University
+* Jun 2013: First Prize of Outstanding Undergraduate Thesis; Sichuan University 
+* Apr 2011: Award for Excellent Research Practice, Chinese Academy of Sciences 
+* 2009 - 2013: First Prize of Comprehensive Scholarship, Sichuan University
 
 Publications
 ======
@@ -56,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coordinating Editor for Biochemical Genetics (2020-2021).
+* Reviewing for Proceedings of the National Academy of Sciences of the United States of America.
