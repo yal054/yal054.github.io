@@ -8,7 +8,6 @@ date: 2018 Spring
 location: "Beijing, China"
 ---
 
-[More information here](https://www.ncrnalab.org/courses/)
 
 The teaching purpose of this course is to enable students to understand and master the basic knowledge of bioinformatics, and at the same time enable students to master practical bioinformatics practical skills and programming techniques. The course design is to allow students to start from "zero foundation", gradually learn the basic knowledge of bioinformatics and practice basic computer skills, until finally they can master commonly used bioinformatics technologies such as machine learning. The course will allow students to understand and practice basic Linux operations, and master the basics of bioinformatics in the new generation of high-throughput sequencing data through programming training in computing languages necessary for bioinformatics (such as Bash, R, Python, etc.) Analytical method.
 
