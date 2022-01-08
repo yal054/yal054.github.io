@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Hi, there! :wave:
 
 This is Yang, coming from Beijing, China. I feel very fortunate that I am still on the career path to realizing my childhood dream, which is to become a scientist. I can vividly remember the summer days I spent, 25 years ago, collecting all kinds of insects. This made me always curious about nature since I was a child.
