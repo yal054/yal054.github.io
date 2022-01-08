@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics in Action"
+title: "Teaching Assistant, Bioinformatics in Action"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2018-spring-teaching-1
