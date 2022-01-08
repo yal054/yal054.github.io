@@ -1,6 +1,6 @@
 ---
-title: "The Mt. San Gorgonio"
-excerpt: "Yeah! Conquer the 2nd highest summit in southern california. <br/><img src='/images/san_gorgonio.jpg'>"
+title: "The first marathon day"
+excerpt: "Finally finished my first half marathon at Oct 24, 2021. <br/><img src='/images/marathon.jpg'>"
 collection: portfolio
 ---
 
