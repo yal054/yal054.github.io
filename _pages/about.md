@@ -28,7 +28,7 @@ As an undergraduate, I conducted research with Dr. Jia-tang Li to understand how
 
 Professional Service
 ======
-1. Coordinating Editor for Biochemical Genetics (2020-2021).
+1. Coordinating Editor for Biochemical Genetics (2020-2022).
 2. Reviewing for Proceedings of the National Academy of Sciences of the United States of America.
 
 For more info
